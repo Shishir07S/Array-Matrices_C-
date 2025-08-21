@@ -1,9 +1,4 @@
 # Array-Matrices_C-
-Siddhant Arora 
-
-24070123107 
-
-ENTC B1
 
 # Matrix Operations in C++
 
